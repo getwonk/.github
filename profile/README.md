@@ -17,7 +17,7 @@
 ---
 
 ## 💡 Sobre Wonk
-
+aa
 Este es el espacio privado donde desarrollamos y gestionamos el proyecto **Wonk**.  
 Un lugar de innovación, colaboración y desarrollo continuo.
 
